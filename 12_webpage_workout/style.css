@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+
+.main-container{
+    background-color: #1a1a1a;
+}
+
+.corousel{
+  height: 50vh;
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.cards
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding: 40px;
+}
+
+.dash{
+  height: 3px;
+  background-color: #202020;
+}
